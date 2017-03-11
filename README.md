@@ -12,5 +12,6 @@
 #Basic ML
 - [SoftMax](https://www.quora.com/What-is-the-intuition-behind-SoftMax-function)
 
-#Slide
-- [A Practical Guide for Debugging TensorFlow Codes](https://wookayin.github.io/tensorflow-talk-debugging/)
+
+#To Read
+- [TFDBG](https://www.tensorflow.org/programmers_guide/debugger)
