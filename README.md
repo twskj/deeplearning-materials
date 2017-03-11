@@ -13,4 +13,4 @@
 - [SoftMax](https://www.quora.com/What-is-the-intuition-behind-SoftMax-function)
 
 #Slide
-- [How to Debug TensorFlow](https://wookayin.github.io/tensorflow-talk-debugging/)
+- [A Practical Guide for Debugging TensorFlow Codes](https://wookayin.github.io/tensorflow-talk-debugging/)
