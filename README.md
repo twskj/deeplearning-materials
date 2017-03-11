@@ -8,3 +8,6 @@
 
 #Tools
 - [**Convjs**](http://cs.stanford.edu/people/karpathy/convnetjs) - JS implementation of conv net.
+
+#Basic ML
+- [SoftMax](https://www.quora.com/What-is-the-intuition-behind-SoftMax-function)
