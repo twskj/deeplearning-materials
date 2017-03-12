@@ -1,5 +1,6 @@
 #Books
 - [mathematic for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
 #Lectures
 - [CS231n Winter 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
