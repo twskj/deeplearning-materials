@@ -18,6 +18,7 @@
 - [TFDBG](https://www.tensorflow.org/programmers_guide/debugger)
 - [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 - [Reading-List](http://deeplearning.net/reading-list/)
+- [Standford Deep Learning](http://deeplearning.stanford.edu/tutorial/)
 
 #To Check out
 - [Floyd Hub](https://www.floydhub.com) is a PaaS for Cloud GPUs
