@@ -15,3 +15,4 @@
 
 #To Read
 - [TFDBG](https://www.tensorflow.org/programmers_guide/debugger)
+- [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
