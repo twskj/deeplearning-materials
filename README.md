@@ -19,3 +19,4 @@
 
 #To Check out
 - [Floyd Hub](https://www.floydhub.com) is a PaaS for Cloud GPUs
+- [Deconvolutional Neuron Network](https://www.youtube.com/watch?v=ghEmQSxT6tw)Visualize and debug the model
