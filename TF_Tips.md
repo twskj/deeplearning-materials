@@ -7,4 +7,4 @@
 
 #### tf.pad() Explained
 
-(./img/tf.pad.png)
+![tf.pad([[1,2][3,4]])](./img/tf.pad.png)
