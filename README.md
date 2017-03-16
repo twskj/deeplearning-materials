@@ -22,6 +22,7 @@
 
 
 # To Read
+- [ICCV 2015 Tutorial on Tools for Efficient Object Detection](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
 - [TFDBG](https://www.tensorflow.org/programmers_guide/debugger)
 - [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 - [Reading-List](http://deeplearning.net/reading-list/)
