@@ -14,8 +14,11 @@
 # Basic ML
 - [SoftMax](https://www.quora.com/What-is-the-intuition-behind-SoftMax-function)
 
-# Slide
+# Slides
 - [Convolution Feature Maps](http://kaiminghe.com/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)
+
+# Papers
+- [HOG and Spatial Convolution on SIMD Architecture](https://www.cs.cmu.edu/~imisra/projects/simd-hog-tech-report.pdf)
 
 
 # To Read
