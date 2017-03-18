@@ -28,6 +28,7 @@
 - [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 - [Reading-List](http://deeplearning.net/reading-list/)
 - [Standford Deep Learning](http://deeplearning.stanford.edu/tutorial/)
+- [Optimization Techniques Comparison](http://int8.io/comparison-of-optimization-techniques-stochastic-gradient-descent-momentum-adagrad-and-adadelta/)
 
 # To Check out
 - [Floyd Hub](https://www.floydhub.com) is a PaaS for Cloud GPUs
