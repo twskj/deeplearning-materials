@@ -34,3 +34,6 @@
 - [Floyd Hub](https://www.floydhub.com) is a PaaS for Cloud GPUs
 - [Deconvolutional Neuron Network](https://www.youtube.com/watch?v=ghEmQSxT6tw)Visualize and debug the model
 - [A list of 5 Deep Learning Papers](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+
+# Image Processing
+- [scipy image processing]http://www.scipy-lectures.org/advanced/image_processing/
