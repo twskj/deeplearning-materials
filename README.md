@@ -36,4 +36,5 @@
 - [A list of 5 Deep Learning Papers](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 # Image Processing
-- [scipy image processing]http://www.scipy-lectures.org/advanced/image_processing/
+- [scipy image processing](http://www.scipy-lectures.org/advanced/image_processing/)
+- [ccs1114](http://www.cs.cornell.edu/courses/cs1114/2013sp/sections.html)
