@@ -7,6 +7,7 @@
 - [CS231n note](http://cs231n.github.io)
 - [CS20SI Tensorflow for Deep Learning Research](http://www.stanford.edu/class/cs20si/syllabus.html)
 - [DeepLearning 2015 Montreal](http://videolectures.net/deeplearning2015_montreal/)
+- [Standford NLP](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
 
 # Tools
 - [Convjs](http://cs.stanford.edu/people/karpathy/convnetjs) - JS implementation of conv net.
