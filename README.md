@@ -21,6 +21,7 @@
 # Papers
 - [HOG and Spatial Convolution on SIMD Architecture](https://www.cs.cmu.edu/~imisra/projects/simd-hog-tech-report.pdf)
 - [Fast Regional-CNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
 
 
 # To Read
