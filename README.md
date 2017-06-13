@@ -1,3 +1,6 @@
+# MUST READ
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
+
 # Books
 - [mathematic for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
