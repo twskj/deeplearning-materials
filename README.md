@@ -12,7 +12,7 @@
 - [DeepLearning 2015 Montreal](http://videolectures.net/deeplearning2015_montreal/)
 - [Standford NLP](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
 - [Fast.ai](http://www.fast.ai)
-- [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [Oxford 2014-2015 ML Class](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 # Tools
 - [Convjs](http://cs.stanford.edu/people/karpathy/convnetjs) - JS implementation of conv net.
