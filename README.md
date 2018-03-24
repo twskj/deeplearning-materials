@@ -47,3 +47,7 @@
 # Image Processing
 - [scipy image processing](http://www.scipy-lectures.org/advanced/image_processing/)
 - [ccs1114](http://www.cs.cornell.edu/courses/cs1114/2013sp/sections.html)
+
+# Audio Processing
+- [Unsupervised feature learning for audio classification
+using convolutional deep belief networks](https://www-cs.stanford.edu/people/ang/papers/nips09-AudioConvolutionalDBN.pdf)
