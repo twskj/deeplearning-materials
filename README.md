@@ -36,6 +36,7 @@
 - [Reading-List](http://deeplearning.net/reading-list/)
 - [Standford Deep Learning](http://deeplearning.stanford.edu/tutorial/)
 - [Optimization Techniques Comparison](http://int8.io/comparison-of-optimization-techniques-stochastic-gradient-descent-momentum-adagrad-and-adadelta/)
+- [Intro to DataMining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 
 # To Check out
 - [Floyd Hub](https://www.floydhub.com) is a PaaS for Cloud GPUs
