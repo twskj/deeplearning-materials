@@ -52,3 +52,6 @@
 # Audio Processing
 - [Unsupervised feature learning for audio classification
 using convolutional deep belief networks](https://www-cs.stanford.edu/people/ang/papers/nips09-AudioConvolutionalDBN.pdf)
+
+# Video Tutorial
+- [Brain.js](https://scrimba.com/p/pVZJQfg/cv4rvCR)
